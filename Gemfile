@@ -26,6 +26,8 @@ gem 'pundit'
 #Use Faker to generate fake Mentors and fake Users
 gem 'faker'
 
+gem 'mimemagic', github: 'mimemagicrb/mimemagic', ref: '01f92d86d15d85cfd0f20dabd025dcbd36a8a60f'
+
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
 
